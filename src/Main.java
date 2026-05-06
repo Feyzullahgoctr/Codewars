@@ -5,11 +5,11 @@ public class Main {
     }
 
     public static void printSomething() {
-        System.out.println("Print Something");
+        System.out.println("Please Print Something");
     }
 
     public static void doSomething() {
-        System.out.println("Plase do Something");
+        System.out.println("do Something");
     }
 
 }
